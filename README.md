@@ -1,4 +1,17 @@
 # Campus Connect – Campus Event Management System
+## Developed By
+
+**Project Team – Campus Connect**
+
+1. **Battula Jayasri Sai Tejaswini**
+2. **Banduchode Jyothsna Sree**
+3. **Cherukuri Surekha**
+
+**Project Title:** Campus Connect – Campus Event Management and Student Registration System
+
+**Technologies:** Java, JavaFX, Maven, Git and GitHub
+
+**Project Type:** Academic Group Project
 
 ## Project Overview
 Campus Connect is a JavaFX-based desktop application developed to simplify campus event management and student registration.
