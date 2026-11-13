@@ -1,0 +1,3 @@
+E001,Tech Fest,20-11-2026,College Auditorium,50
+E002,Cultural Fest,25-11-2026,College Ground,100
+4003,hacking,09-11-2026,cyber zone,60

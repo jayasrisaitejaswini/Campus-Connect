@@ -1,0 +1,7 @@
+101,Ravi,ravi@gmail.com,IT,E001
+102,Priya,priya@gmail.com,CSE,E001
+104,Arjun,arjun@gmail.com,CSE,E001
+S001,Rahul,rahul@gmail.com,CSE,E001
+25b01a1228,surekha,surekha@gmail.com,IT,E002
+25b01a1228,surekha,surekha@gmail.com,IT,4003
+25b01a1229,surekha,surekha@gmail.com,IT,4003

@@ -1,0 +1,13 @@
+com\campusconnect\Event.class
+com\campusconnect\RegistrationLauncher.class
+com\campusconnect\RegistrationManager.class
+com\campusconnect\RegistrationScreenTest.class
+com\campusconnect\RegistrationTest.class
+com\campusconnect\Dashboard.class
+com\campusconnect\ReportManager.class
+com\campusconnect\EventManager.class
+com\campusconnect\FileManager.class
+com\campusconnect\RegistrationScreen.class
+com\campusconnect\MainApp.class
+com\campusconnect\Registration.class
+com\campusconnect\Student.class
